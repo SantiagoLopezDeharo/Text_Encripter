@@ -1,0 +1,5 @@
+/home/santigo/Documents/experimentos-csharp/Encriptador/Encriptado_SL/Encriptado_SL/bin/Debug/Encriptado_SL.exe
+/home/santigo/Documents/experimentos-csharp/Encriptador/Encriptado_SL/Encriptado_SL/bin/Debug/Encriptado_SL.pdb
+/home/santigo/Documents/experimentos-csharp/Encriptador/Encriptado_SL/Encriptado_SL/obj/x86/Debug/Encriptado_SL.csprojAssemblyReference.cache
+/home/santigo/Documents/experimentos-csharp/Encriptador/Encriptado_SL/Encriptado_SL/obj/x86/Debug/Encriptado_SL.exe
+/home/santigo/Documents/experimentos-csharp/Encriptador/Encriptado_SL/Encriptado_SL/obj/x86/Debug/Encriptado_SL.pdb

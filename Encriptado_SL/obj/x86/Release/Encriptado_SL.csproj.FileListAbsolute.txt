@@ -1,0 +1,2 @@
+/home/santigo/Documents/experimentos-csharp/Encriptador/Encriptado_SL/Encriptado_SL/bin/Release/Encriptado_SL.exe
+/home/santigo/Documents/experimentos-csharp/Encriptador/Encriptado_SL/Encriptado_SL/obj/x86/Release/Encriptado_SL.exe
